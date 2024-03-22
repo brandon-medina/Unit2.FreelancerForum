@@ -1,0 +1,41 @@
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    line-height: 1.6;
+}
+h1 {
+    text-align: center;
+    color: #007BFF;
+}
+#freelancerList {
+    margin-top: 20px;
+    border-top: 2px solid #eee;
+    padding-top: 20px;
+}
+.freelancer {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+.freelancer h3 {
+    margin-top: 0;
+    color: #333;
+}
+.freelancer p {
+    margin: 5px 0;
+}
+#averagePrice {
+    margin-top: 20px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #007BFF;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
